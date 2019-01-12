@@ -1,5 +1,5 @@
 * Include on /security
-* security@domain.com
+* security@domain.com - https://tools.ietf.org/html/rfc2142#section-4
 * Provide details of PGP keys
 * SECURITY.md file
 * Does everyone have access to security@domain.com ?
