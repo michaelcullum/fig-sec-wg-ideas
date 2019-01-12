@@ -1,6 +1,6 @@
 * /security
 * security.md
-* <link> tag
+* `<link>` tag
 * composer.json
 
 
