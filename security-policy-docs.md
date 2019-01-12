@@ -61,7 +61,7 @@ form
   the same code base that might be affected). Drupal has a dedicated system built on drupal.
 * ZendFramework uses zf-security@zend.com 
 * SugarCRM uses secure@sugarcrm.com
-* WordPress, Revive  uses HackerOne
+* WordPress, Revive use HackerOne
 
 https://hackerone.com/directory aims to provide a listing of security contact info for hackerone and non-hackerone
 projects.
