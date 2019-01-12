@@ -4,6 +4,7 @@
 * composer.json (Composer control this?)
 * /.well-known/security.txt (website, already defined)
 * /.well-known/security.yml (website, something we define)
+* Directory of vulns in repository? Used by composer?
 
 Website things, could we get them on github projects e.g. github.com/symfony/symfony/.well-known/security.yml
 
