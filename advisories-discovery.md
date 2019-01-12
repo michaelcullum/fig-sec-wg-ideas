@@ -1,6 +1,6 @@
 * /security (website)
 * security.md (in repo)
-* <link> tag (website)
+* `<link>` tag (website)
 * composer.json (Composer control this?)
 * /.well-known/security.txt (website, already defined)
 * /.well-known/security.yml (website, something we define)
