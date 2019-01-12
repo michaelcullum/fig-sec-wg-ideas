@@ -47,6 +47,7 @@ advisories:
 ```
 
 ## security.txt
+https://securitytxt.org/
 https://tools.ietf.org/html/draft-foudil-securitytxt-04
 
 Example:
