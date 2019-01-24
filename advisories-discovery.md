@@ -27,6 +27,17 @@ e.g.
 <link rel="human-advisories" href="https://symfony.com/blog/category/security-advisories">
 ```
 
+Possibly differentiating by content-type:
+```
+<!-- Machine Readable -->
+<link rel="security" content-type="text/json" href="https://example.com/advisories/security.json" />
+<link rel="security" content-type="text/yaml" href="https://example.com/advisories/security.yml" />
+
+<!-- Human Readable -->
+<link ref="security" content-type="text/html" href="https://example.com/advisories/" />
+<link ref="security" content-type="text/plain" href="https://example.com/advisories/security.txt" />
+```
+
 ## Things to consider:
 * Some projects just on github
 * Some projects don't use a VCS/Github
